@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="118" started-at="2020-04-29T10:08:07Z" finished-at="2020-04-29T10:08:08Z">
+  <suite name="Suite" duration-ms="73" started-at="2020-04-30T07:14:18Z" finished-at="2020-04-30T07:14:18Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="118" started-at="2020-04-29T10:08:07Z" finished-at="2020-04-29T10:08:08Z">
+    <test name="Test" duration-ms="73" started-at="2020-04-30T07:14:18Z" finished-at="2020-04-30T07:14:18Z">
       <class name="testCases.TestC">
-        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestC@22eeefeb]" name="demo" duration-ms="2" started-at="2020-04-29T10:08:08Z" finished-at="2020-04-29T10:08:08Z">
+        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestC@22eeefeb]" name="demo" duration-ms="2" started-at="2020-04-30T07:14:18Z" finished-at="2020-04-30T07:14:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
       </class> <!-- testCases.TestC -->
       <class name="testCases.TestB">
-        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestB@289d1c02]" name="demo" duration-ms="2" started-at="2020-04-29T10:08:08Z" finished-at="2020-04-29T10:08:08Z">
+        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestB@289d1c02]" name="demo" duration-ms="2" started-at="2020-04-30T07:14:18Z" finished-at="2020-04-30T07:14:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
       </class> <!-- testCases.TestB -->
       <class name="testCases.TestA">
-        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestA@2a70a3d8]" name="demo" duration-ms="71" started-at="2020-04-29T10:08:08Z" finished-at="2020-04-29T10:08:08Z">
+        <test-method status="PASS" signature="demo()[pri:0, instance:testCases.TestA@2a70a3d8]" name="demo" duration-ms="14" started-at="2020-04-30T07:14:18Z" finished-at="2020-04-30T07:14:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->

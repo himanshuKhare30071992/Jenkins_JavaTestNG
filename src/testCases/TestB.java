@@ -10,7 +10,7 @@ public class TestB
 	  System.out.println("----------------------2nd TestCase----------------------");
 	  for (int i = 10; i < 20; i++) 
 	  {
-		  System.out.println(i+"B===Hello TestNG Jenkins===");
+		  System.out.println(i+"ClassB===Hello TestNG Jenkins===");
 	  }
   }
 }
